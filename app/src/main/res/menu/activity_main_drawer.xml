@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:title="Home"
+           />
+
+        <item
+            android:id="@+id/events"
+            android:title="Events" />
+
+        <item
+            android:id="@+id/workshop"
+            android:title="Workshops" />
+        <item
+            android:id="@+id/project"
+            android:title="Tech Eureka" />
+
+        <item
+            android:id="@+id/nights"
+            android:title="Nights" />
+        <item
+            android:id="@+id/team"
+            android:title="Team" />
+
+        <item
+            android:id="@+id/register"
+            android:title="Register" />
+
+        <item
+            android:id="@+id/nav_RateIt"
+            android:title="RateIt!" />
+
+        <item
+            android:id="@+id/nav_ShareApp"
+            android:title="Share App" />
+    </group>
+
+
+</menu>

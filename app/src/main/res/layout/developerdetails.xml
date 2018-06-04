@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <TextView
+        android:id="@+id/devhead"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/app"
+        android:gravity="center_horizontal"
+        android:textSize="30dp"
+        android:textColor="#000000"
+        android:layout_marginTop="10dp"
+        android:textStyle="bold"/>
+    <android.support.v7.widget.CardView
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/card_viewr"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_below="@id/devhead"
+        card_view:cardCornerRadius="10dp"
+        card_view:cardBackgroundColor="#4dd0e1">
+
+        <TextView
+            android:id="@+id/info_textr"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal"
+            android:paddingTop="5dp"
+            android:textColor="#000000"
+            android:textSize="25sp"
+            android:text="Ruhul Amin" />
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/card_viewa"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_below="@id/card_viewr"
+        card_view:cardCornerRadius="10dp"
+        card_view:cardBackgroundColor="#4dd0e1">
+
+        <TextView
+            android:id="@+id/info_texta"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal"
+            android:paddingTop="5dp"
+            android:textColor="#000000"
+            android:textSize="25sp"
+            android:text="Amisha Narsingani"/>
+    </android.support.v7.widget.CardView>
+<TextView
+    android:id="@+id/head3"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/web"
+    android:gravity="center_horizontal"
+    android:textSize="30dp"
+    android:textColor="#000000"
+    android:layout_below="@id/card_viewa"
+    android:layout_marginTop="30dp"
+    android:textStyle="bold"/>
+<android.support.v7.widget.CardView
+xmlns:card_view="http://schemas.android.com/apk/res-auto"
+android:id="@+id/card_view7"
+android:layout_gravity="center_horizontal"
+android:layout_width="match_parent"
+android:layout_height="50dp"
+android:layout_marginLeft="10dp"
+android:layout_marginRight="10dp"
+android:layout_marginTop="10dp"
+android:layout_below="@id/head3"
+card_view:cardCornerRadius="10dp"
+card_view:cardBackgroundColor="#4dd0e1">
+
+<TextView
+    android:id="@+id/info_text7"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:paddingTop="5dp"
+    android:textColor="#000000"
+    android:textSize="25sp"
+    android:text="Mihir Patel" />
+</android.support.v7.widget.CardView>
+<android.support.v7.widget.CardView
+xmlns:card_view="http://schemas.android.com/apk/res-auto"
+android:id="@+id/card_view8"
+android:layout_gravity="center_horizontal"
+android:layout_width="match_parent"
+android:layout_height="50dp"
+android:layout_marginLeft="10dp"
+android:layout_marginRight="10dp"
+android:layout_marginTop="10dp"
+android:layout_below="@id/card_view7"
+card_view:cardCornerRadius="10dp"
+card_view:cardBackgroundColor="#4dd0e1">
+
+<TextView
+    android:id="@+id/info_text8"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:paddingTop="5dp"
+    android:textColor="#000000"
+    android:textSize="25sp"
+    android:text="Harsh Khandar"/>
+</android.support.v7.widget.CardView>
+    </RelativeLayout>
+</ScrollView>

@@ -1,0 +1,389 @@
+<resources>
+    <string name="app_name">IMAZE\'18</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="home">Home</string>
+    <string name="events">Events</string>
+    <string name="workshops">Workshops</string>
+    <string name="projects">Tech Eureka</string>
+    <string name="nights">Nights</string>
+    <string name="team">Team</string>
+    <string name="register">Register</string>
+    <string name="techureka">“Science is a way humans try to tell themselves the truth”\n
+
+If you have a curious mind, if you like to explore from the smallest interstice to beyond galaxy existence and if you have a persevering attitude then don’t miss this opportunity. The reward is merely a by-product but the best you will receive is the rejuvenation of your confidence by putting yourself to test, by appearing in a State-level Concours as a competitor.\n
+
+GCET brings you the ace of project competitions  ‘TECH EUREKA - Concours of Innovatia\',an ultimate competing platform to showcase your creativity and knowledge at the state level for the final year engineering students. The students will be required to present a college approved project, which is their final year B.E./B.Tech. project. Comprising of 2 rounds, Tech Eureka faces and fosters poster presentation and implementation of your project.\n
+
+With the prize pool of 3 lakh rupees. Come, join us for this elaborate display of knowledge and skills, a passion that brings thrills! Interact with the best brains of the State and it will indubitably be an unforgettable experience!\n\n
+<b>Student Co-ordinators :</b>\n
+Himanshi Agrawal\n
+Dhruv Patel\n
+Mrugaksha Trivedi\n\n
+<b>Contact:</b>\n
++91-7405114039\n
++91-9537928134\n\n
+<b>Email Id :</b> techeureka.imaze2k18@gmail.com\n
+
+</string>
+    <string name="headertext"><b>Concurs of Innovatia</b></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="day1"> Day 1</string>
+    <string name="day2"> Day 2</string>
+    <string name="about">Rising above the world of books and igniting the wild rides, GCET\'s biggest tech-fest IMAZE\'18 is here, where passion meets the action. It is that time of the year again, when the chains of theoretical monotony, the blues of every weekday and the mundaneness of one-sided communication will be broken by the thrill of practicality and the experience of thinking beyond the books. From rejoice to recreate and from invent to inspire, innovation invites students to the battle of brilliant minds.
+
+\nWith the flicker of technology and roller coaster of fun, this year IMAZE is here to rekindle innovation, embarking from infinity. IMAZE a technical carnival that originated in 2002 and whose success increases exponentially every passing year is back again.\n IMAZE\'18 a spectacle held at G.H. PATEL COLLEGE OF ENGINEERING AND TECHNOLOGY is a concoction of various technical and non-technical events, coruscating workshops, intriguing seminars, spellbinding cultural events and amusing on the spot games.
+So get ready to be served a complete package of excitement, learning, and equanimity.
+</string>
+    <string name="intro">Introduction:\n</string>
+    <string name="core">Core Coordinators\n</string>
+    <string name="finance">Finance Coordinators\n</string>
+    <string name="web">Web Design\n</string>
+    <string name="app">Android App\n</string>
+    <string name="doc">Documentation\n</string>
+    <string name="graphics">Graphics Designing</string>
+    <string name="data">Database\n</string>
+    <string name="publicity">Publicity\n</string>
+    <string name="nontech">Non-Technical\n</string>
+    <string name="work">Workshop\n</string>
+    <string name="diy">Do It Yourself\n</string>
+    <string name="deco">Decoration\n</string>
+    <string name="security">Security\n</string>
+    <string name="logis">Logistics\n</string>
+    <string name="social">Social Media\n</string>
+    <string name="cultural">Cultural\n</string>
+    <string name="techu">Tech Eureka\n</string>
+    <string name="vfx">VFX\n</string>
+    <string name="sch">Schedule:\n</string>
+    <string name="w1_intro">Block chain technology is widely regarded as a revolutionary technology, banking and financial
+industry is at the forefront of experimenting with this technology. The comprehension of this
+technology and its potential impact are still in primitive stages and rapidly evolving. Technology
+providers are prototyping varieties of platforms to suit varying application scenarios. The
+fragmentation of solutions and lack of standardization makes it difficult for organizations to
+evaluate and choose a suitable platform meeting their requirements. The objectives of this
+workshop includes:
+• Gain a deeper understanding of the basic concepts underlying the technology
+• Explore the most common applications being experimented
+• Learn the theoretical limits on the possibilities of block chain
+• Comprehend the design patterns of applications and platforms such as the Bitcoin,
+Ethereum, Hyper ledger Fabric, Stellar, Ripple, NEM, Sawtooth Lake, etc.
+</string>
+    <string name="w1_day1"><b><u>Session 1:</u></b>\n
+•	What is Blockchain\n
+•	What is Bitcoin &amp; how the transition works\n
+•	Introduction to Ethereum\n\n
+Session 2:\n
+•	Consensus Algorithm\n\n
+Session 3:\n
+•	Business Engineering\n
+•	BitcoinBootcamp\n\n
+Session 4:\n
+•	Smart contract security (Coding smart programs)\n\n
+</string>
+    <string name="w1_day2">Session 1:\n
+•	Blockchain VS Database\n
+•	Smart Contracts &amp; Business (What makes Blockchain unique)\n\n
+Session 2:\n
+•	Cryptography\n\n
+Session 3:\n
+•	Market Research\n
+•	Ethereum Virtual Machine\n
+Session 4:\n
+•	Competition &amp; Quiz\n
+</string>
+    <string name="w2_intro">Due to constant rise of the video game industry, the demand for game developers is increasing at a steadfast rate. The Game Development Workshop will impart participants with the knowledge of the tools and techniques needed for design and development of games. This intensive two-day workshop will explore the day-to-day craft of game design through hands-on activities, group discussion, analysis, and critique. The workshop focus is to enable participants to develop interactive games using JavaScript and C# with the help of live projects.\n</string>
+    <string name="w2_day1">Session 1:\n
+•	Introduction\n
+•	Physics involved in game development\n
+Session 2:
+•	Introduction to Unity.
+Session 3:
+•	3D Modelling
+•	Blender software use and conversion of characters to use in Unity Framework
+Session 4:
+•	Animating the Game characters
+</string>
+    <string name="w2_day2">Session 1:
+•	Creating Environment for game
+•	JavaScript for Unity
+Session 2:
+•	Controlling Characters
+Session 3:
+•	Creating a Final State machine
+•	Code optimization
+•	Debugging
+Session 4:
+•	Competition &amp; Quiz
+</string>
+    <string name="w3_intro">AUTOCAD is a vector based illustrating program designed for technological innovation reasons. It mainly focuses on the basic concepts of field designing and increasing the imagination power of the students. This workshop will include designing, managing, interfacing etc. using AUTOCAD software.</string>
+    <string name="w3_day1">Session 1:
+•	Interface of AutoCAD
+•	Creating Basic Geometry
+•	Drafting Settings in AutoCAD
+•	Snapping to Coordinates
+•	Important Drawing Fundamentals for AutoCAD
+•	Using Specialized Drawing Commands of AutoCAD
+    Session 2:
+•	AutoCAD Object Properties
+•	Making Primary Modifications in AutoCAD
+•	Creating Text in AutoCAD
+•	AutoCAD\'s Dimensioning
+•	Utility and Inquiry Tools
+•	Layers and Layouts of AutoCAD
+Session 3:
+•	Managing Blocks and References in AutoCAD
+•	Annotations &amp; Annotative Objects
+•	Designing Attributes and Storing Attribute Data
+•	Extracting Linking and Presenting Data in Tables
+•	External References
+•	Adding Callouts in AutoCAD
+Session 4:
+•	Checking Your Skills
+•	Linking to Other Drawings
+•	Incorporating Images
+•	Plotting &amp; Printing Drawings
+•	Properly Sizing Annotations on Printed Drawings
+•	Sharing Data with Others
+
+</string>
+    <string name="w3_day2">Session 1:
+•	Introduction to 3D
+•	Isometric Views
+•	Thickness
+•	Elevation in AutoCAD
+•	3D Views, Orbit
+•	Changing View Ports
+•	Visual Styles in AutoCAD
+Session 2:
+•	Solid Primitives
+•	3D Basics, 3D Operation
+•	Modifying Solid Editing
+•	Creating 3D Object in AutoCAD
+•	Modifying 3D Mesh Objects
+•	Working with Surface Objects
+Session 3:
+•	Modifying 3D Objects in AutoCAD
+•	Material &amp; Mapping
+•	Lights &amp; Camera in AutoCAD
+•	Motion Path Animation
+•	Rendering
+•	Export &amp; Import 3D Drawing
+Session 4:
+•	Competition &amp; Quiz
+</string>
+    <string name="w4_intro">Construction industry is one of the largest industries in the world, and one that has the highest stakes. Construction project management is the art of undertaking a construction project to meet its cost, time and quality deadlines in a sustainable way. This interactive workshop accompanied with actual case studies introduces Civil Engineering students to the management techniques involved over the complete timeline of a construction project, exposing them to the various roles of a construction project manager.</string>
+    <string name="w4_day1">Session 1:
+•	Construction Project Management
+•	Introduction
+•	Project Life Cycle
+Session 2:
+•	Organizational Structure
+•	Network Analysis
+•	Relationship &amp; Logic
+•	PDM
+•	Critical Path Method
+Session 3:
+•	Earned Value Management
+•	Introduction
+•	Performance Measurement System
+Session 4:
+•	Project Portfolio Management
+</string>
+    <string name="w4_day2">Session 1:
+•	Sequencing activities effectively using PDM relationships
+•	Tracking Project Progress with Baseline
+Session 2:
+•	Earned Value Analysis
+•	Resource loading &amp; levelling
+Session 3:
+•	What-if analysis
+•	Generate Analytical and Graphical reports
+•	Case studies on Industrial projects
+Session 4:
+•	Competition &amp; Quiz
+</string>
+    <string name="w5_intro">The main objective of this WORKSHOP is to make the aspiring engineers acquainted with the
+conceptual as well as practical knowledge of the Industrial Automation &amp; latest technologies
+being used to achieve Industrial Automation. The idea of organizing this workshop is to
+inculcate the basic fundamentals of automation in the students and provide them with a
+platform to work on, in the near future. The most used guiding force behind an Automated
+Industrial Plant is A “Programmable Logic Controller” generally known as a PLC. PLCs along with
+certain other necessary ingredients like sensors, motors, actuators, valves, conveyors, boilers,
+SCADA systems, computers &amp; many more, makes a real Automated Manufacturing Plant.</string>
+
+    <string name="w5_day1">Session 1:
+•	Introduction to Automation
+•	Need  Of Automation
+•	Automation applications
+•	Evolution in Industrial Automation (A Brief History)
+•	Different Type of Industrial Control Mechanisms)
+•	Introduction to PLCs
+•	PLC Advantages over Microcontrollers
+Session 2:
+•	Area Of Applications
+•	DATA Flow During Automation
+•	Motor Drives Introduction &amp; Their Need
+•	Sensors Introduction &amp; Their Need
+•	HMI Introduction &amp; Its Need
+•	SCADA Introduction &amp; Its Need
+Session 3:
+•	PLC
+Session 4:
+•	SCADA
+</string>
+    <string name="w5_day2">Session 1:
+•	Allen Bradley &amp; Rockwell Automation’s Details
+•	Brief Description To Input/ Output Pins Of Micrologix-1000
+•	Ladder Diagram Basics
+•	Introduction To RSLogix
+Session 2:
+•	Downloading A Ladder Program In PLC Using RSLinx.
+•	How To Take Input From Panel
+•	How To Give Output To Panel
+•	Running First PLC Application.
+Session 3:
+•	Participants will perform hands on PLC training Kit
+Session 4:
+•	Competition &amp; Quiz
+</string>
+    <string name="w6_intro">This workshop is mainly aimed to created awareness on IOT by giving them hands -on
+experience. This workshop will include Introduction to IOT, Introduction to NodeMCU,
+Interfacing Different Widgets using BLYNK Application etc.</string>
+    <string name="w6_day1">Session 1:
+•	Introduction to IOT
+•	Introduction to NodeMCU
+•	Performance of Digital I/O
+Session 2:
+•	Pulse Width Modulation
+•	Serial Communication
+•	Sensor Interfacing
+Session 3:
+•	Connecting NodeMCU to Cloud
+•	Digital I/O using IOT
+•	Analog I/O using IOT
+Session 4:
+•	Serial Communication using IOT
+•	Interfacing Different Widgets using BLYNK Application
+</string>
+    <string name="w6_day2">Session 1:
+•	Interfacing H bridge with DC Motor
+•	DC Motor Speed Varying using POT and PWM
+•	Robot Chassis Assembling
+•	Running DC Motor using Serial Communication
+Session 2:
+•	Creating UI in BLYNK for the Robot
+•	Controlling Robot using Server
+•	Notification on Email using Robot and Server
+•	Sensor Interfacing with Robot
+Session 3:
+•	Introduction to TUNIOT Server
+•	Designing DEMO app using TUNIOT
+•	Quiz on Edpuzzle Software
+•	Robo Race using IOT
+Session 4:
+•	Competition &amp; Quiz
+</string>
+    <string name="w7_intro">Geographic Information Systems (GIS) is a tool for managing data about where features are
+(geographic coordinate data) and what they are like (attribute data), and for providing the
+ability to query, manipulate, and analyse those data. This workshop includes GPS, data
+acquisition, digitization, case studies in industrial projects types of topics for the students to
+enhance their skills.</string>
+    <string name="w7_day1">Topics :
+
+Session 1:
+
+•	Geographic Information System (G.I.S)
+
+•	Introduction
+
+•	Various applications
+
+•	Data sources
+
+•	GIS Data Models
+
+Session 2:
+
+•	Data Acquisition
+
+•	Coordinate System and Map Projections
+
+Session 3:
+
+•	Brief Introduction to GPS and Remote sensing
+
+•	Making a Topographic map
+
+Session 4:
+
+•	Working with Attributes
+
+•	Geo-referencing aerial imagery and scanned maps</string>
+    <string name="w7_day2">Session 1:
+
+•	Digitization
+
+•	Affine transformation
+
+Session 2:
+
+•	Performing Spatial query
+
+•	Raster Styling and Analysis
+
+Session 3:
+
+•	Case studies on industrial projects
+
+Session 4:
+
+•	Competition &amp; Quiz</string>
+    <string name="w8_intro">This workshop is aimed for the delegates with the basic theory and principles of Vibration
+Measurement and Analysis. To introduce delegates to industry standards which apply to
+vibration levels in machinery, so that they may establish acceptable levels of severity, manage
+the collection of data, produce and interpret trends, and principles of Fault Mode Analysis using
+frequency spectra data. To enable delegates to practice ‘hands on’ vibration measurement and
+analysis techniques using a variety of equipment’s.</string>
+    <string name="w8_day1">Session 1:
+•	Introduction to vibration
+•	Basic terms in vibration
+•	Simple Harmonic Motion, Inertia Force, Restoring Force, Damping Force. Amplitude, Frequency, Time Period, Angular Velocity.
+•	Free Vibrations, Damped free vibrations, Forced Vibrations, Mathematical representation of forced vibrations
+Session 2:
+•	Basics of Vibration measurement
+•	Time waveform, FFT spectrum signature, Phase.
+•	Vibration Measurement sensors.
+Session 3:
+•	Modes of vibration measurement
+•	Displacement, Velocity, Acceleration, RMS, Zero-peak and peak-to-peak amplitude.
+•	Spectrum analysis, Common terms used in vibration analysis like Harmonics, Sub-harmonics, non-harmonic, etc.
+Session 4:
+•	Common Causes of Vibration
+•	Mass unbalance, eccentric rotors, bent shafts, and misalignment.
+•	Introduction to vibration analyzer
+</string>
+    <string name="w8_day2">Session 1:
+•	Live demo of machine, vibration measurement and analysis, fault diagnosis
+Session 2:
+•	Live demo of machine, vibration measurement and analysis, fault diagnosis
+Session 3:
+•	Live demo of machine, vibration measurement and analysis, fault diagnosis
+Session 4:
+•	Competition &amp; Quiz
+</string>
+    <string name="pronight">The night is all about being young.\nSing in sync with the songs, sway along with the rhythm of the beats.Become one with the harmony.We bet you won\'t be able to stop yourself from stoming feet to the magical tunes of Balraj Shastri.\n Be a part of an evening so spectral, you are sure to loose yourself to the music that will take you hostage, tug at your heartstrings and echo within your mind in the form of a memory forever.\n </string>
+    <string name="web1">“Music is the wine that fills the cup of silence.”\n
+Let the magic of your words with beats enchant the spectators and transfer them to a world of muse and mystery. The best thing about music is that when it hits you, you feel no pain.
+So, rock the stage with your voice and own it by touching everyone's soul.
+</string>
+    <string name="web2">“It is your feet that move, but your heart that dances.”\n
+Dance is the form of art consisting of purposefully selected corollary of human movement. Dance and create fire on the stage with your moves, perform like a star and burn it solely. Bring out your virtuosity and your chemistry with dance.
+
+</string>
+    <string name="web3">The stage is set. The curtains are drawn and the spotlight is on you! An artist is in fact a magician. Unleash the fabricator within you. Create your own story based on the scenes given to you. So get ready. Lights, camera, Scene-e-magic!</string>
+    <string name="web4">Awaken the Marketer within you. Make the stage come alive with your captivating script. Create an ad to promote the product given to you and enact it for the spectators. Remember, make it simple. Make it memorable. Make it inviting to look at, and Voilà! You have it all to win.</string>
+</resources>
